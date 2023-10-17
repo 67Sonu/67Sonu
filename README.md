@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @67Sonu
-- 👀 I’m interested in python developer.
+- 👀 I’m interested in being python developer.
 - 🌱 I’m currently learning python language.
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me?->skshah2777@gmail.com
